@@ -410,7 +410,7 @@
                         },
                         Qo = function() {
                             var o = Xo(f);
-                            return o.href = "https://mailgo.dev?ref=mailgo-modal", o.className = "m-by", o.target = "_blank", o.rel = "noopener noreferrer", o.appendChild(oe("mailgo.dev")), o
+                            return o.href = "", o.className = "m-by", o.target = "_blank", o.rel = "noopener noreferrer", o.appendChild(oe("mailgo.dev")), o
                         },
                         Xo = function() {
                             var o = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "div";
