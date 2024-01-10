@@ -1,3 +1,3 @@
 # Info
 
-just removew on the js mail to
+This is just remove watermark on the js
